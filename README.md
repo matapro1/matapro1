@@ -1,4 +1,7 @@
-# 💫 About Me:
+<!-- RAINBOW LINE TOP -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px"> About Me:
 ¡Hola! Soy Claudio Ortiz, un apasionado programador autodidacta con 38 años de edad, ¡listo para conquistar el mundo de la programación! 🚀 Originario de México pero actualmente viviendo en Estados Unidos, mi viaje en el desarrollo web y movil ha sido una emocionante travesía de aprendizaje y crecimiento.<br><br>Mi compromiso y determinación son mis principales aliados mientras navego por este fascinante campo. Aunque estoy dando mis primeros pasos, mi sed de conocimiento es insaciable.<br><br>💡 Con ansias de aprender y sobresalir, estoy preparado para enfrentar desafíos y participar en proyectos que me impulsen hacia el éxito. Mi enfoque autodidacta me ha permitido adquirir habilidades diversas y estoy emocionado por contribuir a proyectos innovadores.<br><br>Mi objetivo va más allá de solo aprender; quiero colaborar y crecer junto a la vibrante comunidad de desarrolladores. Estoy abierto a nuevas oportunidades y ansioso por ser parte de proyectos que despierten mi creatividad y desafíen mis habilidades.<br><br>¡Acompáñame en esta aventura emocionante! Estoy listo para construir algo increíble y dejar mi huella en el mundo de la programación. 🌟 ¡Vamos a codear juntos! 🤖💻
 
 
@@ -21,7 +24,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mataprodigital&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=mataprodigital&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
